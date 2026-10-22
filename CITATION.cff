@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, cite this repository and identify the commit used; see the documentation for original component credits."
+title: "Honeybee Construction Tools"
+type: software
+authors:
+  - family-names: "Somanath"
+    given-names: "Sanjay"
+repository-code: "https://github.com/SB-Chalmers/honeybee-construction-tools"
+license: MIT
+abstract: "Grasshopper component examples for Honeybee constructions from a material CSV or a target wall U-value."

@@ -1,8 +1,8 @@
 # A script to create HB materials and Component solutions from a CSV for parametric sensitivity analysis
 
-Date: 2022 December 12  
-Author: Sanjay Somanath  
-Contact: sanjay.somanath@chalmers.se  
+Date: 2022 December 12
+Author: Sanjay Somanath
+Contact: sanjay.somanath@chalmers.se
 
 ![Script](media/script.png)
 
@@ -14,7 +14,7 @@ Some assumtions are made within the script for all materials. 6,479 Solutions ar
 
 Sample HB material
 
-![MatProp](media/mat_properties.png)  
+![MatProp](media/mat_properties.png)
 
 ```
 Construction,

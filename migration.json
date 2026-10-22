@@ -1,0 +1,127 @@
+{
+  "source_repository": "SB-Chalmers/ComputationSustainableDesign",
+  "source_commit": "7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba",
+  "migration_date": "2026-10-22",
+  "repository": "SB-Chalmers/honeybee-construction-tools",
+  "source_folders": [
+    "Grasshopper Scripts/HBConstruction _from_CSV/",
+    "Grasshopper Scripts/custom_u_value_to_construction/"
+  ],
+  "history": "Relevant source history retained with git-filter-repo; regenerable outputs/backups and downloadable large assets excluded.",
+  "files": [
+    {
+      "path": "csv-constructions/221015_material_database.csv",
+      "source_path": "Grasshopper Scripts/HBConstruction _from_CSV/221015_material_database.csv",
+      "status": "included",
+      "size": 1427,
+      "sha256": "c5e1313d9f1f47b16788a1b5300f5cf272e978eb8d19dac51585749837b0cc10",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/221015_material_database.csv",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/221015_material_database.csv",
+      "migrated_sha256": "c5e1313d9f1f47b16788a1b5300f5cf272e978eb8d19dac51585749837b0cc10"
+    },
+    {
+      "path": "csv-constructions/HB_CreateConstructionFromCSV.gh",
+      "source_path": "Grasshopper Scripts/HBConstruction _from_CSV/HB_CreateConstructionFromCSV.gh",
+      "status": "included",
+      "size": 39219,
+      "sha256": "6a2fb79ec1f6a78f885bf91568ad4b79fbe74b0331e1c21a40ad1d504c58802b",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/HB_CreateConstructionFromCSV.gh",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/HB_CreateConstructionFromCSV.gh",
+      "migrated_sha256": "6a2fb79ec1f6a78f885bf91568ad4b79fbe74b0331e1c21a40ad1d504c58802b"
+    },
+    {
+      "path": "csv-constructions/original-readme.md",
+      "source_path": "Grasshopper Scripts/HBConstruction _from_CSV/README.md",
+      "status": "included",
+      "size": 1114,
+      "sha256": "907d15e42b29d4fbdcb07c5a10fbf5b497d8e4c75748d9516650c2eee3abc1ec",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/README.md",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/README.md",
+      "documentation_relocated": true,
+      "documentation_links_updated": true,
+      "migrated_sha256": "6d1b0c210bf2d38e5600f7d4972ae64a21c7042339b087ccc580e152566ca686"
+    },
+    {
+      "path": "csv-constructions/create_solutions.py",
+      "source_path": "Grasshopper Scripts/HBConstruction _from_CSV/create_solutions.py",
+      "status": "included",
+      "size": 994,
+      "sha256": "646a966363d59e3a8bfa1dc0228d66241f9d69642619e327c679f8025da097cd",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/create_solutions.py",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/create_solutions.py",
+      "migrated_sha256": "646a966363d59e3a8bfa1dc0228d66241f9d69642619e327c679f8025da097cd"
+    },
+    {
+      "path": "csv-constructions/makeHBConstruction.py",
+      "source_path": "Grasshopper Scripts/HBConstruction _from_CSV/makeHBConstruction.py",
+      "status": "included",
+      "size": 2605,
+      "sha256": "803bcd9e2dce9f54a1d11413c012820eeb0b883ed76f448043c962d33e4854bf",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/makeHBConstruction.py",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/makeHBConstruction.py",
+      "migrated_sha256": "803bcd9e2dce9f54a1d11413c012820eeb0b883ed76f448043c962d33e4854bf"
+    },
+    {
+      "path": "csv-constructions/media/mat_properties.png",
+      "source_path": "Grasshopper Scripts/HBConstruction _from_CSV/media/mat_properties.png",
+      "status": "included",
+      "size": 232937,
+      "sha256": "104045bde83496e919b630fad39a729d6c5c2d929b3389d5a2b157aab17fb644",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/media/mat_properties.png",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/media/mat_properties.png",
+      "migrated_sha256": "104045bde83496e919b630fad39a729d6c5c2d929b3389d5a2b157aab17fb644"
+    },
+    {
+      "path": "csv-constructions/media/script.png",
+      "source_path": "Grasshopper Scripts/HBConstruction _from_CSV/media/script.png",
+      "status": "included",
+      "size": 153174,
+      "sha256": "083dd2a2708f80c06ae36555f1f94cdc790c136862e4a49c36b3c788f30846cf",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/media/script.png",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/media/script.png",
+      "migrated_sha256": "083dd2a2708f80c06ae36555f1f94cdc790c136862e4a49c36b3c788f30846cf"
+    },
+    {
+      "path": "csv-constructions/read_csv.py",
+      "source_path": "Grasshopper Scripts/HBConstruction _from_CSV/read_csv.py",
+      "status": "included",
+      "size": 660,
+      "sha256": "be84f373f407f5a7ac812ed36f918bf43f6b8a5942b64549b1d961086fc4cd76",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/read_csv.py",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/read_csv.py",
+      "migrated_sha256": "be84f373f407f5a7ac812ed36f918bf43f6b8a5942b64549b1d961086fc4cd76"
+    },
+    {
+      "path": "csv-constructions/split_materials.py",
+      "source_path": "Grasshopper Scripts/HBConstruction _from_CSV/split_materials.py",
+      "status": "included",
+      "size": 704,
+      "sha256": "ddbf225f9fb3981bf3974b143cd55b57a1cc60d445099d3f9211b01b97d950e0",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/split_materials.py",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/HBConstruction%20_from_CSV/split_materials.py",
+      "migrated_sha256": "ddbf225f9fb3981bf3974b143cd55b57a1cc60d445099d3f9211b01b97d950e0"
+    },
+    {
+      "path": "target-u-value/original-readme.md",
+      "source_path": "Grasshopper Scripts/custom_u_value_to_construction/readme.md",
+      "status": "included",
+      "size": 1837,
+      "sha256": "20219e892871d06f55e8359c1593a4f162474d6ad7643991c77e07deb560bbb2",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/custom_u_value_to_construction/readme.md",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/custom_u_value_to_construction/readme.md",
+      "documentation_relocated": true,
+      "documentation_links_updated": true,
+      "migrated_sha256": "20219e892871d06f55e8359c1593a4f162474d6ad7643991c77e07deb560bbb2"
+    },
+    {
+      "path": "target-u-value/simpleUValue.py",
+      "source_path": "Grasshopper Scripts/custom_u_value_to_construction/simpleUValue.py",
+      "status": "included",
+      "size": 6051,
+      "sha256": "44feee3a37c627fb3c434b6c307c4468043b28804a8cbb1a397e6d3d3f64b705",
+      "source_url": "https://github.com/SB-Chalmers/ComputationSustainableDesign/blob/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/custom_u_value_to_construction/simpleUValue.py",
+      "download_url": "https://raw.githubusercontent.com/SB-Chalmers/ComputationSustainableDesign/7f61d112e0d60667bbef3e6fc4fc7236bcf6bbba/Grasshopper%20Scripts/custom_u_value_to_construction/simpleUValue.py",
+      "migrated_sha256": "44feee3a37c627fb3c434b6c307c4468043b28804a8cbb1a397e6d3d3f64b705"
+    }
+  ]
+}
